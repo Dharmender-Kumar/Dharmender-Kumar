@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img align="left" height="50%" width="47%" src="https://github-readme-stats.vercel.app/api?username=dharmender-kumar&show_icons=true&theme=tokyonight"/>
+<!--
 <img align = "left" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmender-kumar&layout=compact)](https://github.com/dharmender-kumar/github-readme-stats"/>
-
+-->
 
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
